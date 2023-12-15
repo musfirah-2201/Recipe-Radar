@@ -8,7 +8,7 @@ function DisplayArea({recipes}) {
                     <li key={hit.recipe.uri}>
                         <h3>{hit.recipe.label}</h3>
                         <p>Source: {hit.recipe.source}</p>
-                        <a href={hit.recipe.url} target='_blank'>find recepi here!</a>
+                        <a href={hit.recipe.url} target='_blank' rel="noreferrer">find recepi here!</a>
                         {/* Add more details as needed */}
                     </li>
                     ))}
