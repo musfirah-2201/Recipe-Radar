@@ -1,0 +1,23 @@
+.app-container {
+    position: relative;
+    top: 0vh;
+  }
+  
+  .border-image {
+    position: fixed;
+    top: 0vh;
+    width: 10vw; /* Adjust the width of your border image */
+    object-fit: cover; /* Maintain the image aspect ratio */
+    z-index: 1; /* Ensure the image is on top of the content */
+    height: 100%;
+    /* Add any additional styling you need for the border image */
+  }
+  
+  .left {
+    left: 0;
+  }
+  
+  .right {
+    right: 0;
+  }
+  

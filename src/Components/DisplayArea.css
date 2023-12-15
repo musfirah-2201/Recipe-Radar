@@ -1,0 +1,8 @@
+.list-container{
+    position: relative;
+    background-color: rgba(236, 239, 208, 0.668);
+    top: 10vh;
+    width: 80vw;
+    left: 10vw;
+    right: 10vw;
+}
