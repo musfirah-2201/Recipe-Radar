@@ -1,5 +1,5 @@
 import React from "react";
-import borderim from 'D:/ReactApplication/recipe_radar/src/images/img5.jpg';
+import borderim from '../images/img5.jpg';
 import './Border.css'
 
 function Border(){

@@ -1,6 +1,6 @@
 import React from 'react';
 import './Header.css';
-import headerim from 'D:/ReactApplication/recipe_radar/src/images/img3.jpeg';
+import headerim from '../images/img3.jpeg';
 
 function Header() {
     return (
